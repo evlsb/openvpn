@@ -1,6 +1,7 @@
 #!/bin/bash
 # apt update
 
-apt install -y openvpn easy-rsa nano ufw
+#apt install -y openvpn easy-rsa nano ufw
 
-mkdir -p /app/files/ca
+ln -s /usr/share/easy-rsa/* ~/easy-rsa/
+
