@@ -1,0 +1,9 @@
+set_var EASYRSA_REQ_COUNTRY    "RU"
+set_var EASYRSA_REQ_PROVINCE   "Bashkortostan"
+set_var EASYRSA_REQ_CITY       "Ufa"
+set_var EASYRSA_REQ_ORG        "OZNA"
+set_var EASYRSA_REQ_EMAIL      "levashov.en@ozna.ru"
+set_var EASYRSA_REQ_OU         "ASUTP"
+set_var EASYRSA_ALGO           "ec"
+set_var EASYRSA_DIGEST         "sha512"
+
